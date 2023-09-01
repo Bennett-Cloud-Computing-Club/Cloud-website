@@ -22,7 +22,8 @@ html,body{
     height: 12px;
     border-radius: 50%;
     background-color: black;
-    position: absolute;
+    position: fixed;
+    transition: all linear 0.1s;
     z-index: 999;
 }
 #nav {

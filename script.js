@@ -1,10 +1,8 @@
-const cursor = document.querySelector("#cursor");
+var crsr = document.querySelector("#cursor")
+
+document.addEventListener("mousemove", function(e) {
+    crsr.style.left = e.x-10+"px"
+    crsr.style.top =e.y-10+"px"
 
 
-document.addEventListener("mousemove", (e) => {
-  let X = e.pageX;
-  let Y = e.pageY;
-
-  cursor.style.left = X + "px";
-  cursor.style.top = Y + "px";
 });
