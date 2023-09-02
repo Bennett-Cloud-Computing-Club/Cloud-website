@@ -1,0 +1,124 @@
+/* Navigation Bar */
+
+.nav-title{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+/* Hero Section */
+
+.hero{
+    height: 60vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 65px;
+    padding-top: 30px;
+    padding-left: 130px;
+    line-height: 25px;
+}
+
+.hero-title1{
+    font-weight: 500;
+}
+
+.hero-title2{
+    padding-left: 100px;
+}
+
+/* Section 3 */
+/* Apply flexbox to the parent container (section with class "gccp") */
+.gccp {
+    background-color:black;
+    color: #ffff;
+    border-radius: 50px;
+    height: 70vh;
+    display: flex;
+    align-items: center; /* Vertically center the content */
+    margin: 40px;
+}
+
+/* Style the image div */
+.image {
+    
+    flex: 1; /* Grow to take available space */
+    padding-left: 50px;
+}
+
+/* Style the details div */
+.details {
+    flex: 2; /* Grow to take available space, twice as much as the image */
+    padding-left: 130px; /* Add spacing around the details */
+    padding-right: 130px; /* Add spacing around the details */
+    text-align: left; /* Center the content horizontally */
+    line-height: 25px;
+}
+
+/* Style the image within the image div */
+.GCCPimg {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    height: auto; /* Maintain the aspect ratio */
+    border: 1px black solid;
+}
+
+.GCCPbutton{
+    color: white;
+    margin-top: 20px;
+    padding: 60px 120px 60px 120px;
+    border: 1px solid rgb(83, 83, 83);
+    background: none;
+    border-radius: 80px;
+}
+
+
+/* Our Philosphy */
+.OurPhilosphy{
+    height:auto;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+
+.heading{
+    padding-top:10vh;
+    padding-left: 20vh;
+    font-size: 100px;
+}
+
+.teamImg{
+    flex: 1;
+    height: 300px;
+    width: 400px;
+}
+
+.OurPhilosphy>:last-child{
+    display: flex;
+    padding: 15vh;
+}
+
+/* Social media handles */
+.handles{
+    background-color:rgb(18, 18, 18);
+    height: 13vh;
+    border: 1px solid rgb(114, 114, 114);
+}
+
+.handle{
+    letter-spacing: 4px;
+    padding-top: 1vh;
+    padding-left: 5vh;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.handle-title{
+    padding-top: 3vh;
+    padding-left: 5vh;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 15px;
+
+}
+
+a{
+    text-decoration: none;
+}
