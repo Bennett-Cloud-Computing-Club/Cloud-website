@@ -362,3 +362,60 @@ a{
 a:hover{
   color: darkblue;
 }
+@media screen and (max-width: 768px) {
+  #cursor, #cursor-blur {
+    display: none;
+  }
+  #homemain h3{
+    font-weight: 500;
+    font-size: 2.5vw;
+  }
+  #homemain h1{
+    font-size: 6.5vw;
+    letter-spacing: -2px;
+    color: transparent;
+    -webkit-text-stroke: 0.5px #000;
+    font-family: 'Black Ops One', cursive;
+    
+  }
+  #page4{
+    display: none;
+  }
+  #scroller h4 {
+    display: inline-block;
+    font-size: 5.6vw;
+    font-weight: 100;
+    margin-right: 20px;
+    transition: all linear 0.3s;
+    font-family: 'Archivo Black', sans-serif;
+    color:transparent;
+    -webkit-text-stroke: 1px #000000;
+  }
+  /* #nav p {
+    width: 100px;
+    font-size: 3vh;
+    font-weight: 500;
+  } */
+  /* #page5{
+    width: 100%;
+    height:100vh;
+    /* background-color: red; */
+    /* z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    } */ 
+    #page3 {
+      height: 50vh;
+      width: 100%;
+      /* background-color: #000; */
+      display: flex;
+      flex-direction: column;
+    
+      align-items: center;
+      position: relative;
+      justify-content: center;
+    }
+}
