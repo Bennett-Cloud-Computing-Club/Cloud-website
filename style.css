@@ -352,3 +352,12 @@ span{
   border-bottom: 2px solid #dadada;
 
 }
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  color: darkblue;
+}
