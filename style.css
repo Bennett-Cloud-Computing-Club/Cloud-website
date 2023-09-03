@@ -443,45 +443,53 @@ a:hover{
       bottom: 20%;
       right: 12%;
     }
-    #problem,#solution{
-      width: 85%;
-      height: 58vw;
-    }
-    .left1{
-      font-size: 1.5vh;
-      width:100%;
-      height:45%;
-    }
-    .right1{
-      font-size: 2vh;
-      width:100%;
-      font-size: 20px;
-    }
-    .left2{
-      font-size: 1.5vh;
-      width:100%;
-      height:45%;
-    }
-    .right2{
-      font-size: 2vh;
-      width:100%;
-      font-size: 20px;
-    }
-    #page5{
-      margin-top: -25vh;
-      
-      
-    }
-    #page5 #problem,#solution{
-      display: flex;
-      flex-direction: column;
-      height:55vh
-    }
+   
+  
+   
     #nav #right a{
       font-size: 1.7vh;
     }
     #nav #right #menu,#icon{
       display:none;
+    }
+    #page5{
+      margin-top: -20vh;
+      height: 140vh;
+    }
+    #nav #right a{
+      font-size: 2vh;
+    }
+    #problem,#solution{
+      width: 90%;
+      display: flex;
+      flex-direction: column;
+      height:75vh;
+      border-radius: 15px;
+      border: 1px solid #191919;
+    }
+    #problem .left1,#solution .left2{
+      width: 100%;
+      height: 23vh;
+      border-radius: 15px;
+      font-size: 2.5vh;
+      background-color:#191919;
+    }
+    #problem .right1,#solution .right2{
+      width: 100%;
+      background-color: #fff;
+      color: #000;
+    }
+    #problem .right1 p,#solution .right2 p{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-left: 1.5vh;
+      padding-right: 1.5vh;
+    }
+    #problem .left1 span,#solution .left2 span{
+      padding-left: 4vh;
+      font-weight: 100;
+      font-family: 'Satisfy', cursive;
     }
 }
 
