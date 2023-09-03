@@ -369,7 +369,7 @@ a:hover{
   #homemain h3{
     font-weight: 500;
     font-size: 2.5vw;
-    line-height: 4vh;
+    line-height: 3vh;
   }
   #homemain h1{
     font-size: 2.9vh;
@@ -414,6 +414,39 @@ a:hover{
       margin-bottom: 20px; /* Example: Reduce the margin between page3 and page5 */
     }
     #page3 h1{
-      font-size: 2.3vh;
+      font-size: 2.6vh;
+    }
+    #page3 p{
+      font-size:1.5vh ;
+    }
+    #page3 svg {
+      position: absolute;
+      height: 40px;
+    }
+    #page3 #colon1 {
+      left: 8%;
+      top: 30%;
+    }
+    #page3 #colon2 {
+      bottom: 20%;
+      right: 12%;
+    }
+    #problem,#solution{
+      width: 90%;
+    }
+    .left1{
+      font-size: 1.5vh;
+    }
+    .right1{
+      font-size: 2vh;
+    }
+    .left2{
+      font-size: 1.5vh;
+    }
+    .right2{
+      font-size: 2vh;
+    }
+    #page5{
+      margin-top: -25vh;
     }
 }
