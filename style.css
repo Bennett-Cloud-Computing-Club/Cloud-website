@@ -203,19 +203,20 @@ html,body{
   width: 24%;
   /* background-color: blue; */
   border-radius: 20px;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
   overflow: hidden;
   transition: all ease 0.6s;
 }
 #card1 {
-  background-image:url(azure.png)
+  background-image:url(azure.svg)
 }
 #card2 {
-  background-image: url(aws2.png)
+  background-image: url(aws.svg)
 }
 #card3 {
-  background-image: url(google.png)
+  background-image: url(gcp.svg)
 }
 .overlay {
   height: 100%;
