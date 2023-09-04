@@ -383,7 +383,7 @@ a:hover{
     font-size: 3.6vh;
     letter-spacing: -2px;
     color: transparent;
-    -webkit-text-stroke: 0.5px #000;
+    -webkit-text-stroke: 0.5px #000000;
     font-family: 'Black Ops One', cursive;
     /* font-stretch:; */
   }
@@ -481,6 +481,7 @@ a:hover{
     }
     #problem .right1 p,#solution .right2 p{
       display: flex;
+      font-size: 1.6vh;
       justify-content: center;
       align-items: center;
       padding-left: 1.5vh;
