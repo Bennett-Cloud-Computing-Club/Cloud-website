@@ -478,6 +478,7 @@ a:hover{
       width: 100%;
       background-color: #fff;
       color: #000;
+      overflow: hidden;
     }
     #problem .right1 p,#solution .right2 p{
       display: flex;
