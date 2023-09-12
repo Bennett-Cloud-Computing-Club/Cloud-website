@@ -12,6 +12,7 @@ html,body{
   width: 100%;
   background-color: #fff;
   cursor: none;
+  /* font-family: 'Roboto', sans-serif; */
 }
 
 #home {
@@ -340,6 +341,7 @@ span{
   position: relative;
   z-index: 9;
   padding: 140px 100px;
+  font-family: 'Roboto', sans-serif;
 }
 .page5 h2{
   font-size: 4vw;
@@ -501,3 +503,11 @@ a:hover{
 #letter{
   letter-spacing: 4px;
 } */
+
+#right{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#nav{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
