@@ -1,0 +1,146 @@
+<div id="page2">
+              <h1 class="about_us">Our Team</h1>
+              <div id="scroller">
+                <div id="scroller-in2">
+                  <div class="carousel carousel-center rounded-box" >
+              <div class="carousel-item">
+                <img src="pics/C.png" alt="Pizza" />
+              </div>
+              
+              <div class="carousel-item">
+                <img src="pics/VC.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/SEC.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/TH.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/TCH.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/TC1.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/TC2.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/TC3.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/TC4.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/TC5.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MH.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MCh.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MCH2.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC1.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC2.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC3.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC4.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC5.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/DH.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/DCH.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/PH.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/PCH.png" alt="Pizza" />
+              </div>
+            </div>
+                </div>
+                <div id="scroller-in2">
+                  <div class="carousel carousel-center rounded-box" >
+              <div class="carousel-item">
+                <img src="pics/C.png" alt="Pizza" />
+              </div>
+              
+              <div class="carousel-item">
+                <img src="pics/VC.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/SEC.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/TH.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/TCH.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/TC1.png" alt="Pizza" />
+              </div> 
+              <div class="carousel-item">
+                <img src="pics/TC2.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/TC3.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/TC4.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/TC5.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MH.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MCh.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MCH2.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC1.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC2.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC3.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC4.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/MC5.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/DH.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/DCH.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/PH.png" alt="Pizza" />
+              </div>
+              <div class="carousel-item">
+                <img src="pics/PCH.png" alt="Pizza" />
+              </div>
+            </div>
+                </div>
+              </div>
